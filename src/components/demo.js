@@ -1,0 +1,13 @@
+React.render(
+    <MUIContainer>
+      <MUIPanel>
+        <MUIButton>
+        </MUIButton>
+        <MUIButton>
+        </MUIButton>
+        <MUIButton>
+        </MUIButton>
+      </MUIPanel>
+    </MUIContainer>,
+  document.body
+);

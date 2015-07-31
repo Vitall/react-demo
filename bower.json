@@ -1,0 +1,20 @@
+{
+  "name": "react-test",
+  "version": "0.0.1",
+  "authors": [
+    "Vitall <vitall@intspirit.com>"
+  ],
+  "description": "test React project",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.3",
+    "mui": "~0.1.19"
+  }
+}
