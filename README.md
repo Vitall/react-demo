@@ -3,7 +3,7 @@
 to run app
 
 ```
-bnpm install && npm install
+npm install && bower install
 ```
 
 then
